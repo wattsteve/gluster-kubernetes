@@ -2,7 +2,7 @@ At Present gluster-kubernetes only supports the ability to deploy a solution for
 
 The design being initially proposed is... overview.
 
-<insert diagram>
+![RWO System Design](https://github.com/wattsteve/gluster-kubernetes/blob/master/docs/design/readwriteonce.png "RWO System Design")
 
 The changes being proposed in each component are:
 
